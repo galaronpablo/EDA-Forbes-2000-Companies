@@ -1,5 +1,10 @@
 # 🌍 Forbes 2000 Analysis
 
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/c98f1527-993e-47d0-b0ed-b41d28fe7d7c" height="50" alt="Excel" />
+</div>
+<br/>
+
 **Subject:** Data Description and Exploration (1st Year)  
 **Tools:** Microsoft Excel, Descriptive Statistics
 
