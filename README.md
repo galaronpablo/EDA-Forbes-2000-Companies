@@ -3,6 +3,12 @@
 **Subject:** Data Description and Exploration (1st Year)  
 **Tools:** Microsoft Excel, Descriptive Statistics
 
+## 👥 Authors
+Project developed by: 
+* **Pablo Galarón Mateo**
+* **Raúl Palomo Mazo**
+* **Adolfo Alarcón Martínez**
+
 ---
 
 This is a project I did for my university course to analyze the **Forbes 2000** list, which ranks the biggest public companies in the world.
